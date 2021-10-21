@@ -1,0 +1,1 @@
+El problema está en que céntimos al ser una variable de tipo int, y precio y pagado son variables de tipo double, a la hora de hacer la cuenta y guardar el valor este se trunca por los decimales y lo aproxima a 45 en vez de a 46. Mi solución sería cambiar la variable céntimos de tipo int a tipo double.

@@ -1,0 +1,15 @@
+1.- falso: Los datos se almacenan en la memoria central temporalmente, y los programas se almacenan en la memoria masiva permanentemente.
+2.- falso: Porque puede ser tanto de 32 como de 64 bits por lo que podria no ser el número siguiente.
+3.- falso: La cadena de caracteres ocupa 8 bits por caracter, y el número real es de tipo double por lo que ocupa 64 bits.
+4.- falso: Cada lenguaje máquina es único en cada CPU.
+5.- falso: No distingue entre espaciados.
+6.- falso: Si es posible, pero habría que poner std:: antes de cada cin y cout.
+7.- verdadero
+8.- falso: Las comillas simples son para un caracter individual, mientras que las comillas dobles son para un conjunto de elementos.
+9.- falso: No, ya que no podemos comenzar un identificador con un número, Dato y true no pueden ser identificadores válidos ya que están registrados en el sistema, no se pueden poner tildes como la de "dirección", ni tampoco la letra ñ como "año".
+10.- verdadero
+11.- verdadero
+12.- verdadero
+13.- falso: Si es un número entero, el compilador ya lo reconoce como int.
+14.- falso: Las entradas escogen el valor que se lo otorga, al pasar a la siguiente entrada, si no inroducimos ningún valor va a quedarse en el mismo estado hasta encontrar un valor que procesar.
+15.- verdadero (para mi contexto).
